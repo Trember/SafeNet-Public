@@ -1,0 +1,1967 @@
+WebSocket proxy server running on ws://localhost:8080
+WebSocket proxy server running on ws://localhost:8080
+WebSocket proxy server running on ws://localhost:8080
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8080
+extention connected!
+A client disconnected
+extention connected!
+A client disconnected
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8080
+extention connected!
+A client disconnected
+extention connected!
+Client connected to Proxy
+Client connected to Proxy
+CONNECT accounts.google.com:443 HTTP/1.1
+Host: accounts.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+
+
+true
+accounts.google.com
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+Client connected to Proxy
+CONNECT accounts.google.com:443 HTTP/1.1
+Host: accounts.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+
+
+true
+accounts.google.com
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Client connected to Proxy
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT accounts.google.com:443 HTTP/1.1
+Host: accounts.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+
+
+true
+accounts.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT accounts.google.com:443 HTTP/1.1
+Host: accounts.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+
+
+true
+accounts.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT update.googleapis.com:443 HTTP/1.1
+Host: update.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+
+
+true
+update.googleapis.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT accounts.google.com:443 HTTP/1.1
+Host: accounts.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+
+
+true
+accounts.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT accounts.google.com:443 HTTP/1.1
+Host: accounts.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+
+
+true
+accounts.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT optimizationguide-pa.googleapis.com:443 HTTP/1.1
+Host: optimizationguide-pa.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+
+
+true
+optimizationguide-pa.googleapis.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT optimizationguide-pa.googleapis.com:443 HTTP/1.1
+Host: optimizationguide-pa.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+
+
+true
+optimizationguide-pa.googleapis.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT accounts.google.com:443 HTTP/1.1
+Host: accounts.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+
+
+true
+accounts.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT accounts.google.com:443 HTTP/1.1
+Host: accounts.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+
+
+true
+accounts.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+A client disconnected
+Client connected to Proxy
+CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+
+
+true
+www.googleapis.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+
+
+true
+www.googleapis.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+extention connected!
+extention connected!
+A client disconnected
+A client disconnected
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8089
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8089
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8089
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8089
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8089
+Client connected to Proxy
+CONNECT safebrowsingohttpgateway.googleapis.com:443 HTTP/1.1
+Host: safebrowsingohttpgateway.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+safebrowsingohttpgateway.googleapis.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+extention connected!
+extention connected!
+Client connected to Proxy
+CONNECT safebrowsingohttpgateway.googleapis.com:443 HTTP/1.1
+Host: safebrowsingohttpgateway.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+safebrowsingohttpgateway.googleapis.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+Client connected to Proxy
+Client connected to Proxy
+Client connected to Proxy
+CONNECT accounts.google.com:443 HTTP/1.1
+Host: accounts.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+accounts.google.com
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT accounts.google.com:443 HTTP/1.1
+Host: accounts.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+accounts.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT accounts.google.com:443 HTTP/1.1
+Host: accounts.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+accounts.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT accounts.google.com:443 HTTP/1.1
+Host: accounts.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+accounts.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT update.googleapis.com:443 HTTP/1.1
+Host: update.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+update.googleapis.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT accounts.google.com:443 HTTP/1.1
+Host: accounts.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+accounts.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT accounts.google.com:443 HTTP/1.1
+Host: accounts.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+accounts.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT optimizationguide-pa.googleapis.com:443 HTTP/1.1
+Host: optimizationguide-pa.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+optimizationguide-pa.googleapis.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT optimizationguide-pa.googleapis.com:443 HTTP/1.1
+Host: optimizationguide-pa.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+optimizationguide-pa.googleapis.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT accounts.google.com:443 HTTP/1.1
+Host: accounts.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+accounts.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT accounts.google.com:443 HTTP/1.1
+Host: accounts.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+accounts.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.googleapis.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.googleapis.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+A client disconnected
+A client disconnected
+Client connected to Proxy
+CONNECT accounts.google.com:443 HTTP/1.1
+Host: accounts.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+accounts.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT accounts.google.com:443 HTTP/1.1
+Host: accounts.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+accounts.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.googleapis.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.googleapis.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+Client connected to Proxy
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+CONNECT www.gstatic.com:443 HTTP/1.1
+Host: www.gstatic.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.gstatic.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8089
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8089
+extention connected!
+extention connected!
+A client disconnected
+A client disconnected
+extention connected!
+extention connected!
+Received message: <Buffer 48 54 54 50 2f 31 2e 31 20 32 30 30 20 4f 4b 20 48 6f 73 74 3a 20 74 65 73 74 73 61 66 65 62 72 6f 77 73 69 6e 67 2e 61 70 70 73 70 6f 74 2e 63 6f 6d ... 5 more bytes>
+tring to unlock V
+testsafebrowsing.appspot.com
+A client disconnected
+A client disconnected
+extention connected!
+extention connected!
+Received message: <Buffer 48 54 54 50 2f 31 2e 31 20 32 30 30 20 4f 4b 20 48 6f 73 74 3a 20 74 65 73 74 73 61 66 65 62 72 6f 77 73 69 6e 67 2e 61 70 70 73 70 6f 74 2e 63 6f 6d ... 5 more bytes>
+tring to unlock V
+testsafebrowsing.appspot.com
+A client disconnected
+A client disconnected
+extention connected!
+extention connected!
+A client disconnected
+A client disconnected
+extention connected!
+A client disconnected
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8080
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8080
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8080
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8080
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8080
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8080
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8080
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8080
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8080
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8080
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8080
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8080
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8080
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8080
+Client connected to Proxy
+CONNECT safebrowsingohttpgateway.googleapis.com:443 HTTP/1.1
+Host: safebrowsingohttpgateway.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+safebrowsingohttpgateway.googleapis.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+extention connected!
+extention connected!
+Client connected to Proxy
+CONNECT safebrowsingohttpgateway.googleapis.com:443 HTTP/1.1
+Host: safebrowsingohttpgateway.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+safebrowsingohttpgateway.googleapis.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+Client connected to Proxy
+Client connected to Proxy
+Client connected to Proxy
+CONNECT accounts.google.com:443 HTTP/1.1
+Host: accounts.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+accounts.google.com
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+Client connected to Proxy
+CONNECT accounts.google.com:443 HTTP/1.1
+Host: accounts.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+accounts.google.com
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+www.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT accounts.google.com:443 HTTP/1.1
+Host: accounts.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+accounts.google.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Client connected to Proxy
+CONNECT update.googleapis.com:443 HTTP/1.1
+Host: update.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+
+true
+update.googleapis.com
+Proxy to SafeNet error
+Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+A client disconnected
+A client disconnected
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8080
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8080
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8080
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8080
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8080
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8080
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8080
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8080
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8080
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8080
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8080
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8080
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8080
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8080
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8080
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8080
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8080
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8080
+WebSocket server is listening on ws://localhost:8081
+Server running on PORT: 8080

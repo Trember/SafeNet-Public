@@ -1,0 +1,999 @@
+(node:23568) Warning: To load an ES module, set "type": "module" in the package.json or use the .mjs extension.
+(Use `node --trace-warnings ...` to show where the warning was created)
+D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js:48
+import { createServer } from 'net';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:128:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1280:20)
+    at Module._compile (node:internal/modules/cjs/loader:1332:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+    at Module.load (node:internal/modules/cjs/loader:1206:32)
+    at Module._load (node:internal/modules/cjs/loader:1022:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.12.2
+(node:17112) Warning: To load an ES module, set "type": "module" in the package.json or use the .mjs extension.
+(Use `node --trace-warnings ...` to show where the warning was created)
+D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js:48
+import { createServer } from 'net';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:128:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1280:20)
+    at Module._compile (node:internal/modules/cjs/loader:1332:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+    at Module.load (node:internal/modules/cjs/loader:1206:32)
+    at Module._load (node:internal/modules/cjs/loader:1022:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.12.2
+(node:13300) Warning: To load an ES module, set "type": "module" in the package.json or use the .mjs extension.
+(Use `node --trace-warnings ...` to show where the warning was created)
+D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js:48
+import { createServer } from 'net';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:128:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1280:20)
+    at Module._compile (node:internal/modules/cjs/loader:1332:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+    at Module.load (node:internal/modules/cjs/loader:1206:32)
+    at Module._load (node:internal/modules/cjs/loader:1022:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.12.2
+(node:5268) Warning: To load an ES module, set "type": "module" in the package.json or use the .mjs extension.
+(Use `node --trace-warnings ...` to show where the warning was created)
+D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js:48
+import { createServer } from 'net';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:128:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1280:20)
+    at Module._compile (node:internal/modules/cjs/loader:1332:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+    at Module.load (node:internal/modules/cjs/loader:1206:32)
+    at Module._load (node:internal/modules/cjs/loader:1022:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.12.2
+(node:6892) Warning: To load an ES module, set "type": "module" in the package.json or use the .mjs extension.
+(Use `node --trace-warnings ...` to show where the warning was created)
+D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js:48
+import { createServer } from 'net';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:128:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1280:20)
+    at Module._compile (node:internal/modules/cjs/loader:1332:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+    at Module.load (node:internal/modules/cjs/loader:1206:32)
+    at Module._load (node:internal/modules/cjs/loader:1022:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.12.2
+(node:27388) Warning: To load an ES module, set "type": "module" in the package.json or use the .mjs extension.
+(Use `node --trace-warnings ...` to show where the warning was created)
+D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js:48
+import { createServer } from 'net';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:128:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1280:20)
+    at Module._compile (node:internal/modules/cjs/loader:1332:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+    at Module.load (node:internal/modules/cjs/loader:1206:32)
+    at Module._load (node:internal/modules/cjs/loader:1022:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.12.2
+node:events:496
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1897:16)
+    at listenInCluster (node:net:1945:12)
+    at Server.listen (node:net:2037:7)
+    at new WebSocketServer (D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\ws\lib\websocket-server.js:102:20)
+    at Object.<anonymous> (D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js:4:16)
+    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+    at Module.load (node:internal/modules/cjs/loader:1206:32)
+    at Module._load (node:internal/modules/cjs/loader:1022:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+Emitted 'error' event on WebSocketServer instance at:
+    at Server.emit (node:events:518:28)
+    at emitErrorNT (node:net:1924:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+
+Node.js v20.12.2
+node:events:496
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1897:16)
+    at listenInCluster (node:net:1945:12)
+    at Server.listen (node:net:2037:7)
+    at new WebSocketServer (D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\ws\lib\websocket-server.js:102:20)
+    at Object.<anonymous> (D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js:4:16)
+    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+    at Module.load (node:internal/modules/cjs/loader:1206:32)
+    at Module._load (node:internal/modules/cjs/loader:1022:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+Emitted 'error' event on WebSocketServer instance at:
+    at Server.emit (node:events:518:28)
+    at emitErrorNT (node:net:1924:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+
+Node.js v20.12.2
+node:events:496
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1897:16)
+    at listenInCluster (node:net:1945:12)
+    at Server.listen (node:net:2037:7)
+    at new WebSocketServer (D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\ws\lib\websocket-server.js:102:20)
+    at Object.<anonymous> (D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js:4:16)
+    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+    at Module.load (node:internal/modules/cjs/loader:1206:32)
+    at Module._load (node:internal/modules/cjs/loader:1022:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+Emitted 'error' event on WebSocketServer instance at:
+    at Server.emit (node:events:518:28)
+    at emitErrorNT (node:net:1924:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+
+Node.js v20.12.2
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}
+Error connecting to SafeNet: Error: connect ECONNREFUSED 127.0.0.1:8069
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8069
+}

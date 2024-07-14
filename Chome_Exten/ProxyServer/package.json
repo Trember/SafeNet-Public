@@ -1,0 +1,19 @@
+{
+  "name": "proxyserver",
+  "version": "1.0.0",
+  "main": "ProxyServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./service.js",
+    "proxy": "node ./ProxyServer.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-rsa": "^1.1.1",
+    "node-windows": "^1.0.0-beta.8",
+    "ws": "^8.17.0"
+  },
+  "description": ""
+}

@@ -1,0 +1,632 @@
+2024-06-15 16:15:47 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-06-15 16:15:47 - Started 14872
+2024-06-15 16:16:13 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-06-15 16:16:13 - Started 26440
+2024-06-15 19:29:49 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-06-15 19:29:50 - Started 14788
+2024-06-17 04:53:24 - Stopping safenet.exe
+2024-06-17 04:53:24 - ProcessKill 10088
+2024-06-17 04:53:24 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-06-17 13:36:33 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-06-17 13:36:33 - Started 10168
+2024-06-18 00:25:56 - Stopping safenet.exe
+2024-06-18 00:25:56 - ProcessKill 10168
+2024-06-18 00:25:56 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-06-18 00:52:00 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-06-18 00:52:01 - Started 9664
+2024-06-18 01:35:42 - Stopping safenet.exe
+2024-06-18 01:35:42 - ProcessKill 9664
+2024-06-18 01:35:42 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-06-18 12:21:44 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-06-18 12:21:44 - Started 10460
+2024-06-19 02:34:12 - Stopping safenet.exe
+2024-06-19 02:34:12 - ProcessKill 10460
+2024-06-19 02:34:13 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-06-19 11:22:18 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-06-19 11:22:18 - Started 10444
+2024-06-20 03:12:23 - Stopping safenet.exe
+2024-06-20 03:12:23 - ProcessKill 10444
+2024-06-20 03:12:24 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-06-20 15:09:22 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-06-20 15:09:22 - Started 10904
+2024-06-20 19:23:47 - Stopping safenet.exe
+2024-06-20 19:23:47 - ProcessKill 10904
+2024-06-20 19:23:48 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-06-20 23:16:16 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-06-20 23:16:16 - Started 10200
+2024-06-21 00:49:30 - Stopping safenet.exe
+2024-06-21 00:49:30 - ProcessKill 10200
+2024-06-21 00:49:31 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-06-21 15:08:16 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-06-21 15:08:16 - Started 10196
+2024-06-22 03:34:07 - Stopping safenet.exe
+2024-06-22 03:34:07 - ProcessKill 10196
+2024-06-22 03:34:08 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-06-22 12:32:58 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-06-22 12:32:59 - Started 10156
+2024-06-23 00:36:39 - Stopping safenet.exe
+2024-06-23 00:36:39 - ProcessKill 10156
+2024-06-23 00:36:39 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-06-23 11:12:07 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-06-23 11:12:08 - Started 9388
+2024-06-23 18:47:31 - Stopping safenet.exe
+2024-06-23 18:47:31 - ProcessKill 9388
+2024-06-23 18:47:31 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-06-23 22:11:12 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-06-23 22:11:13 - Started 9860
+2024-06-23 23:55:21 - Stopping safenet.exe
+2024-06-23 23:55:21 - ProcessKill 9860
+2024-06-23 23:55:21 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-06-24 13:39:30 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-06-24 13:39:30 - Started 9692
+2024-06-25 03:06:16 - Stopping safenet.exe
+2024-06-25 03:06:16 - ProcessKill 9692
+2024-06-25 03:06:16 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-06-25 12:59:52 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-06-25 12:59:52 - Started 9516
+2024-06-25 19:14:46 - Stopping safenet.exe
+2024-06-25 19:14:46 - ProcessKill 9516
+2024-06-25 19:14:46 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-06-26 02:32:50 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-06-26 02:32:51 - Started 8696
+2024-06-26 03:52:30 - Stopping safenet.exe
+2024-06-26 03:52:30 - ProcessKill 8696
+2024-06-26 03:52:30 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-06-26 14:03:12 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-06-26 14:03:13 - Started 10368
+2024-06-26 16:28:16 - Stopping safenet.exe
+2024-06-26 16:28:16 - ProcessKill 10368
+2024-06-26 16:28:16 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-06-26 21:22:34 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-06-26 21:22:35 - Started 8724
+2024-06-27 09:20:10 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-06-27 09:20:10 - Started 9592
+2024-06-27 09:23:00 - Stopping safenet.exe
+2024-06-27 09:23:00 - ProcessKill 9592
+2024-06-27 09:23:00 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-06-27 11:57:06 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-06-27 11:57:06 - Started 10224
+2024-06-27 15:20:12 - Stopping safenet.exe
+2024-06-27 15:20:12 - ProcessKill 10224
+2024-06-27 15:20:12 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-06-27 21:23:21 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-06-27 21:23:22 - Started 9724
+2024-06-28 03:55:23 - Stopping safenet.exe
+2024-06-28 03:55:23 - ProcessKill 9724
+2024-06-28 03:55:23 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-06-28 17:05:05 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-06-28 17:05:06 - Started 10308
+2024-06-28 19:35:16 - Stopping safenet.exe
+2024-06-28 19:35:16 - ProcessKill 10308
+2024-06-28 19:35:16 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-06-29 00:23:40 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-06-29 00:23:40 - Started 9460
+2024-06-29 02:53:14 - Stopping safenet.exe
+2024-06-29 02:53:14 - ProcessKill 9460
+2024-06-29 02:53:14 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-06-29 15:56:57 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-06-29 15:56:58 - Started 10248
+2024-06-30 02:50:43 - Stopping safenet.exe
+2024-06-30 02:50:43 - ProcessKill 10248
+2024-06-30 02:50:43 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-06-30 12:52:45 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-06-30 12:52:45 - Started 10344
+2024-07-01 00:58:05 - Stopping safenet.exe
+2024-07-01 00:58:05 - ProcessKill 10344
+2024-07-01 00:58:05 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-07-01 15:31:09 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-07-01 15:31:09 - Started 9264
+2024-07-01 21:28:01 - Stopping safenet.exe
+2024-07-01 21:28:01 - ProcessKill 9264
+2024-07-01 21:28:01 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-07-02 13:38:26 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-07-02 13:38:27 - Started 9812
+2024-07-03 02:43:02 - Stopping safenet.exe
+2024-07-03 02:43:02 - ProcessKill 9812
+2024-07-03 02:43:02 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-07-03 12:37:41 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-07-03 12:37:42 - Started 10224
+2024-07-03 20:13:03 - Stopping safenet.exe
+2024-07-03 20:13:04 - ProcessKill 10224
+2024-07-03 20:13:04 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-07-03 21:55:58 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-07-03 21:55:59 - Started 10268
+2024-07-04 04:40:04 - Stopping safenet.exe
+2024-07-04 04:40:04 - ProcessKill 10268
+2024-07-04 04:40:04 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-07-04 14:07:17 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-07-04 14:07:18 - Started 9680
+2024-07-04 17:22:50 - Stopping safenet.exe
+2024-07-04 17:22:50 - ProcessKill 9680
+2024-07-04 17:22:50 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-07-04 23:12:24 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-07-04 23:12:24 - Started 9448
+2024-07-05 02:05:30 - Stopping safenet.exe
+2024-07-05 02:05:30 - ProcessKill 9448
+2024-07-05 02:05:30 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-07-06 12:40:02 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-07-06 12:40:03 - Started 9376
+2024-07-06 16:18:49 - Stopping safenet.exe
+2024-07-06 16:18:49 - ProcessKill 9376
+2024-07-06 16:18:49 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-07-06 23:01:18 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-07-06 23:01:18 - Started 9684
+2024-07-07 01:51:39 - Stopping safenet.exe
+2024-07-07 01:51:39 - ProcessKill 9684
+2024-07-07 01:51:39 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-07-07 12:49:33 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-07-07 12:49:33 - Started 10260
+2024-07-07 20:19:04 - Stopping safenet.exe
+2024-07-07 20:19:04 - ProcessKill 10260
+2024-07-07 20:19:05 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-07-08 13:35:16 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-07-08 13:35:17 - Started 10144
+2024-07-09 02:31:33 - Stopping safenet.exe
+2024-07-09 02:31:33 - ProcessKill 10144
+2024-07-09 02:31:33 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-07-09 11:51:35 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-07-09 11:51:36 - Started 9840
+2024-07-10 04:43:29 - Stopping safenet.exe
+2024-07-10 04:43:29 - ProcessKill 9840
+2024-07-10 04:43:30 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-07-10 12:34:33 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-07-10 12:34:34 - Started 9720
+2024-07-11 01:44:43 - Stopping safenet.exe
+2024-07-11 01:44:43 - ProcessKill 9720
+2024-07-11 01:44:43 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-07-11 14:19:21 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-07-11 14:19:21 - Started 10496
+2024-07-11 22:45:47 - Stopping safenet.exe
+2024-07-11 22:45:47 - ProcessKill 10496
+2024-07-11 22:45:48 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-07-12 13:02:21 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-07-12 13:02:22 - Started 10444
+2024-07-12 19:31:38 - Stopping safenet.exe
+2024-07-12 19:31:38 - ProcessKill 10444
+2024-07-12 19:31:38 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-07-12 19:32:44 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-07-12 19:32:45 - Started 1788
+2024-07-12 19:34:15 - Stopping safenet.exe
+2024-07-12 19:34:15 - ProcessKill 1788
+2024-07-12 19:34:15 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-07-12 23:51:27 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-07-12 23:51:28 - Started 10436
+2024-07-13 02:07:58 - Stopping safenet.exe
+2024-07-13 02:07:58 - ProcessKill 10436
+2024-07-13 02:07:58 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-07-13 14:05:19 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-07-13 14:05:19 - Started 10680
+2024-07-14 02:37:09 - Stopping safenet.exe
+2024-07-14 02:37:09 - ProcessKill 10680
+2024-07-14 02:37:09 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-07-14 10:54:19 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file D:\School\2023-2024\Cyber\Project\SafeNet\Chome_Exten\ProxyServer\ProxyServer.js --scriptoptions= --log "SafeNet wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-07-14 10:54:19 - Started 10928

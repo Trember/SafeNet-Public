@@ -1,0 +1,48 @@
+Options:
+      --help             Show help                                     [boolean]
+      --version          Show version number                           [boolean]
+      --scriptoptions    The options to be sent to the script.
+  -f, --file             The absolute path of the script to be run as a process.
+                                                                      [required]
+  -d, --cwd              The absolute path of the current working directory of
+                         the script to be run as a process.
+  -l, --log              The descriptive name of the log for the process
+                                                                      [required]
+  -e, --eventlog         The event log container. This must be APPLICATION or
+                         SYSTEM.
+  -m, --maxretries       The maximim number of times the process will be
+                         auto-restarted.
+  -r, --maxrestarts      The maximim number of times the process should be
+                         restarted within a 60 second period shutting down.
+  -w, --wait             The number of seconds between each restart attempt.
+  -g, --grow             A percentage growth rate at which the wait time is
+                         increased.
+  -a, --abortonerror     Do not attempt to restart the process if it fails with
+                         an error,
+  -s, --stopparentfirst  Allow the script to exit using a shutdown message.
+
+C:\Users\dodog\OneDrive\Documents\SafeNet\SafeNet\Chome_Exten\ProxyServer\app.js does not exist or cannot be found.
+Options:
+      --help             Show help                                     [boolean]
+      --version          Show version number                           [boolean]
+      --scriptoptions    The options to be sent to the script.
+  -f, --file             The absolute path of the script to be run as a process.
+                                                                      [required]
+  -d, --cwd              The absolute path of the current working directory of
+                         the script to be run as a process.
+  -l, --log              The descriptive name of the log for the process
+                                                                      [required]
+  -e, --eventlog         The event log container. This must be APPLICATION or
+                         SYSTEM.
+  -m, --maxretries       The maximim number of times the process will be
+                         auto-restarted.
+  -r, --maxrestarts      The maximim number of times the process should be
+                         restarted within a 60 second period shutting down.
+  -w, --wait             The number of seconds between each restart attempt.
+  -g, --grow             A percentage growth rate at which the wait time is
+                         increased.
+  -a, --abortonerror     Do not attempt to restart the process if it fails with
+                         an error,
+  -s, --stopparentfirst  Allow the script to exit using a shutdown message.
+
+C:\Users\dodog\OneDrive\Documents\SafeNet\SafeNet\Chome_Exten\ProxyServer\app.js does not exist or cannot be found.

@@ -1,0 +1,4 @@
+2024-06-14 23:06:25 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\dodog\OneDrive\Documents\SafeNet\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file C:\Users\dodog\OneDrive\Documents\SafeNet\SafeNet\Chome_Exten\ProxyServer\app.js --scriptoptions= --log "MyNodeApp wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-06-14 23:06:25 - Started 7480
+2024-06-14 23:13:19 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\dodog\OneDrive\Documents\SafeNet\SafeNet\Chome_Exten\ProxyServer\node_modules\node-windows\lib\wrapper.js --file C:\Users\dodog\OneDrive\Documents\SafeNet\SafeNet\Chome_Exten\ProxyServer\app.js --scriptoptions= --log "MyNodeApp wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-06-14 23:13:19 - Started 13076
